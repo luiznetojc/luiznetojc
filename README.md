@@ -1,27 +1,55 @@
-### Hi there 👋
+<h1 align="center">👋 Olá, eu sou Luiz Gonzaga</h1>
+<p align="center">
+  Desenvolvedor <strong>.NET + Angular</strong> Sênior • Apaixonado por <strong>Inteligência Artificial</strong> • Viciado em <strong>resolver problemas complexos</strong>
+</p>
 
-# Hi there, I'm Luiz Gonzaga👋 
-## I'm a Developer, Student  and music enthusiast!!
+---
 
-- 🌱 I’m currently learning Microsservices and Web 3.0
-- 👯 I’m looking to collaborate with anything fun🤣
-- 🥅 2022 Goals: Learn more about web 3.0
-- ⚡ Fun fact: I love to play guitar and make cities on Cities Skylines
+## 🚀 Sobre mim
 
-### Languages and Tools:
+- 🎯 Desenvolvedor de software com anos de experiência em **.NET (C#)** e **Angular**, focado em performance, arquitetura limpa e boas práticas.
+- 🧠 Apaixonado por **IA aplicada**, com projetos pessoais que unem backend robusto com soluções inteligentes.
+- 🧩 Amo resolver problemas difíceis: de **desafios do LeetCode** a **algoritmos otimizados em produção**.
+- ⚙️ Especialista em **sistemas distribuídos**, **microsserviços**, **mensageria com Azure** e **testes automatizados**.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt=".Net" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/dot-net/dot-net-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+---
 
-<br />
-<br />
+## 🧰 Tech Stack Principal
+
+<div align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+---
+
+## 🧠 Interesses
+
+- 🤖 **IA aplicada ao dia a dia** (recomendações, automações, visão computacional)
+- 🔍 **Desenvolvimento guiado por testes** e qualidade de software
+- 🧬 Arquitetura escalável, resiliente e inteligente
+- 🧑‍🏫 Compartilhar conhecimento com devs e entusiastas
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiznetojc&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiznetojc&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-neto-307501140/) – conteúdo sobre .NET, Angular e IA
+- 🧠 [LeetCode](https://leetcode.com/luiznetojc/) – onde brinco com algoritmos
+
+---
+
+> “Código limpo é arte. Arquitetura inteligente é estratégia. Resolver problemas é o que me move.”
